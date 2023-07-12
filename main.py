@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import tqdm
 from stock_info import StockInfo as si
 from manage_bgcolor import ManageBgColor as bg
 
